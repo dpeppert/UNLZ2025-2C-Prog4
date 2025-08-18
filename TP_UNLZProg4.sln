@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_UNLZProg4.Web", "TP_UNLZProg4.Web\TP_UNLZProg4.Web.csproj", "{81804C0B-07F6-465F-8588-7BADF9986160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaDeNegocio", "LogicaDeNegocio\LogicaDeNegocio.csproj", "{FBFE52EF-5256-4E03-B534-D1CABB9586AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81804C0B-07F6-465F-8588-7BADF9986160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81804C0B-07F6-465F-8588-7BADF9986160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81804C0B-07F6-465F-8588-7BADF9986160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81804C0B-07F6-465F-8588-7BADF9986160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFE52EF-5256-4E03-B534-D1CABB9586AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFE52EF-5256-4E03-B534-D1CABB9586AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFE52EF-5256-4E03-B534-D1CABB9586AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFE52EF-5256-4E03-B534-D1CABB9586AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B57E90-6AB7-49B2-8E17-BE99465EFB14}
+	EndGlobalSection
+EndGlobal
